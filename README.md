@@ -1,10 +1,14 @@
 <h2 align="center">
-   Olá! Meu nome é Silvio Lucas. Estou à disposição. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   Olá! Meu nome é Silvio Lucas. Sou desenvolvedor Jr e estou à disposição. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>  
 
-  - 🔭 Futuro desenvolvedor, à procura de uma oportunidade para entrar no mercado. 🙏
-  - 👨‍💻 Atualmente estou me dedicando a criação do meu portfólio e me aprofundando em PHP e MySQL. 🔥
+  - 🔭 Aspirante a desenvolvedor. 🙏
+  - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimentos em front-end e conheçendo novas ferramentas. 🔥
 
+<!--   - 🔭 Futuro desenvolvedor, à procura de uma oportunidade para entrar no mercado. 🙏
+  - 👨‍💻 Atualmente estou me dedicando a criação do meu portfólio e me aprofundando em PHP e MySQL. 🔥
+ -->
+ 
 <div align="center">
   <br>
   <a href="https://github.com/SilvioLucasDev">
