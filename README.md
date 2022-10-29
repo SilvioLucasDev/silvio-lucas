@@ -3,7 +3,10 @@
 </h2>  
 
   - 🔭 Aspirante a desenvolvedor. 🙏
-  - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimentos em front-end e conheçendo novas ferramentas. 🔥
+  - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimento de segurança, desempenho e estrutura de código. 🔥
+
+<!--   - 🔭 Aspirante a desenvolvedor. 🙏
+  - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimentos em front-end e conheçendo novas ferramentas. 🔥 -->
 
 <!--   - 🔭 Futuro desenvolvedor, à procura de uma oportunidade para entrar no mercado. 🙏
   - 👨‍💻 Atualmente estou me dedicando a criação do meu portfólio e me aprofundando em PHP e MySQL. 🔥
