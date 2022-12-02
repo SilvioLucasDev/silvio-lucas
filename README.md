@@ -2,7 +2,7 @@
    Olá! Meu nome é Silvio Lucas. Sou desenvolvedor Jr e estou à disposição. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>  
 
-  - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimento de segurança, estrutura de código. 🔥
+  - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimento de segurança e estrutura de código. 🔥
 
 <!--   - 🔭 Aspirante a desenvolvedor. 🙏
   - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimento de segurança, desempenho e estrutura de código. 🔥 -->
