@@ -1,5 +1,5 @@
 <h2 align="center">
-   Olá! Meu nome é Silvio Lucas. Sou desenvolvedor Jr e estou à disposição. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   Olá! Meu nome é Silvio Lucas. Sou desenvolvedor back end e estou à disposição. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>  
 
   - 👨‍💻 Atualmente estou aperfeiçoando meus conhecimento de segurança e estrutura de código. 🔥
